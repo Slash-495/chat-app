@@ -1,4 +1,4 @@
-# 💬 Global Chat App 🌐
+# Chat App 
 
 A real-time **Chat Application** built with the **MERN stack**, **Socket.IO**, and styled using **DaisyUI**. This app lets you **connect instantly with people across the world**, enabling meaningful conversations, cultural exchange, and real-time interaction — no matter where you are.
 
